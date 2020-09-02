@@ -1,0 +1,11 @@
+.Box {
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+
+.Box button {
+    width: 2%;
+    height: 2%;
+    margin-left: 2%;
+}
